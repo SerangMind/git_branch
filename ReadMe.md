@@ -1,1 +1,1 @@
-## SRMind - Main 
+## SRMind - SRMind
